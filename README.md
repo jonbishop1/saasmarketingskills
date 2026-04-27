@@ -2,11 +2,11 @@
 
 **Turn Claude Code into a world-class growth marketer**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]() [![Built by Markata](https://img.shields.io/badge/Built%20by-Markata-black)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 Hi, I'm Jon and I built this set of skills from my deep experience marketing SaaS products. It's designed specifically for technical founders and has over 15 skills and counting. Everything from audience research to content production and ads is covered and new ones are on the way. These skills encode the frameworks and processes I've used into conversational AI modules that give structured, opinionated strategy customized to your situation.
 
-If you'd prefer a [human marketer](https://markata.co), whether it's for coaching, building out custom marketing skills, or having someone hands-on with your marketing, reach out at [Markata](https://markata.co), my AI marketing agency for SaaS and AI companies.
+If you'd prefer a [human marketer](https://saasgrowthpros.com), whether it's for coaching, building out custom marketing skills, or having someone hands-on with your marketing, reach out at [Markata](https://markata.co), my AI marketing agency for SaaS and AI companies.
 
 
 ---
