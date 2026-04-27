@@ -1,0 +1,12 @@
+{
+  "name": "saasmarketingskills",
+  "description": "",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jon Bishop"
+  },
+  "homepage": "https://github.com/jonbishop1/saasmarketingskills",
+  "repository": "https://github.com/jonbishop1/saasmarketingskills",
+  "license": "MIT",
+  "skills": "./skills/"
+}
