@@ -1,9 +1,18 @@
 {
-  "name": "saasmarketingskills",
-  "description": "15 SaaS marketing skills built specifically for dev founders",
-  "version": "1.0.0",
-  "author": {
-    "name": "Jon Bishop"
+  "name": "saas-marketing-skills",
+  "owner": {
+    "name": "Jon Bishop",
+    "url": "https://saasgrowthpros.com"
   },
-  "repository": "https://github.com/jonbishop1/saasmarketingskills",
+  "plugins": [
+    {
+      "name": "saas-marketing-skills",
+      "source": "./",
+      "description": "Automatic code formatting on save",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jon Bishop"
+      }
+    }
+  ]
 }
