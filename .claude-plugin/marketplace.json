@@ -1,0 +1,9 @@
+{
+  "name": "saasmarketingskills",
+  "description": "15 SaaS marketing skills built specifically for dev founders",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jon Bishop"
+  },
+  "repository": "https://github.com/jonbishop1/saasmarketingskills",
+}
